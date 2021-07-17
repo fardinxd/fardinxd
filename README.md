@@ -4,19 +4,19 @@
 
 <h3 align="center">I'm a Frontend Web Developer from India</h3>
 
-## 🙋‍♂️ About Me:
+## 🙋‍♂️ About Me
 
 - 📙 I’m currently working on **Personal Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](#portfolio-will-be-available-very-soon)**
+- 👨‍💻 All of my projects are available at my **[Portfolio](#portfolio-will-be-available-soon)**
 
-- ⚡ I’m currently learning **React JS**
+- ⚡ I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **fardinxd10@gmail.com**
 
-## 🚀 Languages And Tools:
+## 🚀 Languages And Tools
 
 <p align="left"> 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
@@ -27,7 +27,7 @@
 <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 </p>
 
-## 🤙 Connect With Me:
+## 🤙 Connect With Me
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/fardinxd/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
