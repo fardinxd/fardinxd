@@ -8,8 +8,6 @@
 
 - 📙 I’m currently working on **Personal Projects**
 
-- 👨‍💻 All of my projects are available at my **[Portfolio](#portfolio-will-be-available-soon)**
-
 - ⚡ I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
@@ -23,6 +21,7 @@
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/sass.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  
+<img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/> 
 <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 </p>
