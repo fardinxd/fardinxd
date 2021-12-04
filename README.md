@@ -20,10 +20,10 @@
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/>  
-<img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
-<img src="https://img.icons8.com/color/48/000000/git.png"/> 
-<img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/ultraviolet/45/000000/react--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
 ## 🤙 Connect With Me
