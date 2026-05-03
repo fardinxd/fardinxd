@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=3000&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=Fardin+Khan;Full-Stack+%2B+Mobile+Engineer" />
 
-<br/>
+<div align="left">
 
 <pre>
 🧠 Full-Stack • Mobile • Systems
@@ -10,13 +10,15 @@
 🚀 Building scalable, real-world apps
 </pre>
 
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="35"/>
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## 🧰 Tech Stack
 
@@ -58,7 +60,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ## ⚡ Now
 
